@@ -9,5 +9,6 @@ public class AreaofaRectangle {
        double breadth=sc.nextDouble();
        double area=length*breadth;
        System.out.println("area of the rectangle is: "+area);
+       sc.close();
     }
 }
